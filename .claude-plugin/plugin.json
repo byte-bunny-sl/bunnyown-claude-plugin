@@ -1,0 +1,20 @@
+{
+  "name": "bunnyown",
+  "displayName": "BunnyOwn",
+  "version": "0.1.0",
+  "description": "Run your BunnyOwn workspace from Claude: websites, pages and posts, listings, calendars, bookings and the messages guests receive.",
+  "author": {
+    "name": "Byte Bunny S.L.",
+    "email": "hello@bytebunny.com",
+    "url": "https://bunnyown.com"
+  },
+  "homepage": "https://bunnyown.com",
+  "repository": "https://github.com/byte-bunny-sl/bunnyown-claude-plugin",
+  "license": "MIT",
+  "keywords": ["websites", "bookings", "calendar", "content", "small business"],
+  "icon": "./assets/icon.png",
+  "documentationUrl": "https://bunnyown.com/support/ai",
+  "supportUrl": "https://bunnyown.com/support",
+  "privacyPolicyUrl": "https://bunnyown.com/privacy",
+  "termsOfServiceUrl": "https://bunnyown.com/terms"
+}

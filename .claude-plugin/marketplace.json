@@ -1,0 +1,15 @@
+{
+  "name": "bunnyown",
+  "owner": {
+    "name": "Byte Bunny S.L.",
+    "email": "hello@bytebunny.com"
+  },
+  "description": "BunnyOwn’s plugin for Claude Code: the BunnyOwn MCP connector with guided tasks.",
+  "plugins": [
+    {
+      "name": "bunnyown",
+      "source": "./",
+      "description": "Run your BunnyOwn workspace from Claude: websites, pages and posts, listings, calendars, bookings and the messages guests receive."
+    }
+  ]
+}
